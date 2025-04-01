@@ -1,0 +1,21 @@
+.contenedor{
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+.borde{
+    border-bottom: solid 3 px;
+    color: aquamarine;
+}
+
+.image_languages{
+    display: flex;
+    gap: 20px;
+}
+
+.image_languages_nombre{
+    display: flex;
+    gap: 250px;
+    text-align: center;
+}
+
